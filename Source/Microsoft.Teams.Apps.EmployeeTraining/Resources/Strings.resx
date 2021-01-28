@@ -118,23 +118,23 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Audience" xml:space="preserve">
-    <value>Who can attend</value>
+    <value>Kimler katılabilir</value>
     <comment>The value for audience text</comment>
   </data>
   <data name="AudiencePrivate" xml:space="preserve">
-    <value>Private</value>
+    <value>Özel</value>
     <comment>The private event text</comment>
   </data>
   <data name="AudiencePublic" xml:space="preserve">
-    <value>Public</value>
+    <value>Açık</value>
     <comment>The public event text</comment>
   </data>
   <data name="AutoRegisteredCardSubTitle" xml:space="preserve">
-    <value>You have been automatically registered for this event.</value>
+    <value>Bu etkinliğe otomatik olarak eklendiniz.</value>
     <comment>Auto registration card sub title</comment>
   </data>
   <data name="AutoRegisteredHeader" xml:space="preserve">
-    <value>Mandatory event!</value>
+    <value>Zorunlu etkinlik!</value>
     <comment>Title for auto registration card sent to user</comment>
   </data>
   <data name="CancellationCardSubTitle" xml:space="preserve">
@@ -146,23 +146,23 @@
     <comment>Cancellation card title</comment>
   </data>
   <data name="Category" xml:space="preserve">
-    <value>Category</value>
+    <value>Kategori</value>
     <comment>The value for category</comment>
   </data>
   <data name="CloseRegistrationCardButton" xml:space="preserve">
-    <value>Close registration</value>
+    <value>Katılımı durdur</value>
     <comment>Close registrations card button</comment>
   </data>
   <data name="CreatedByLabel" xml:space="preserve">
-    <value>Created by</value>
+    <value>Yaratan kişi</value>
     <comment>Created by user label text on card</comment>
   </data>
   <data name="CreateEventButtonWelcomeCard" xml:space="preserve">
-    <value>Add event</value>
+    <value>Etkinlik ekle</value>
     <comment>LnD team welcome card add event button text</comment>
   </data>
   <data name="CreateEventCardTitleText" xml:space="preserve">
-    <value>Create a new event</value>
+    <value>Yeni bir etkinlik yarat</value>
     <comment>The create event card title</comment>
   </data>
   <data name="DailyReminderCardTitle" xml:space="preserve">
@@ -170,15 +170,15 @@
     <comment>The reminder card title for daily reminder</comment>
   </data>
   <data name="DateAndTimeLabel" xml:space="preserve">
-    <value>Date &amp; time</value>
+    <value>Gün &amp; saat</value>
     <comment>Date and time label for notification cards</comment>
   </data>
   <data name="DescriptionLabelCard" xml:space="preserve">
-    <value>Description</value>
+    <value>Açıklama</value>
     <comment>Event description label in cards</comment>
   </data>
   <data name="EditEventCardButton" xml:space="preserve">
-    <value>Edit event</value>
+    <value>Katılım ayarları</value>
     <comment>Edit event card button</comment>
   </data>
   <data name="EndDate" xml:space="preserve">
@@ -186,15 +186,15 @@
     <comment>The value for end date text</comment>
   </data>
   <data name="ErrorTitle" xml:space="preserve">
-    <value>Error</value>
+    <value>Hata</value>
     <comment>The task module title for error page</comment>
   </data>
   <data name="EventDescription" xml:space="preserve">
-    <value>Description</value>
+    <value>Açıklama</value>
     <comment>The value for event description text</comment>
   </data>
   <data name="EventName" xml:space="preserve">
-    <value>Event name</value>
+    <value>Etkinlik Adı</value>
     <comment>The value for event name text</comment>
   </data>
   <data name="ExportDetailsCardButton" xml:space="preserve">
@@ -202,27 +202,27 @@
     <comment>Export details card button</comment>
   </data>
   <data name="LoadingImageAltText" xml:space="preserve">
-    <value>Loading image</value>
+    <value>Görüntü yükleniyor</value>
     <comment>The alternative text for loading an image</comment>
   </data>
   <data name="NumberOfRegistrations" xml:space="preserve">
-    <value>Registrations</value>
+    <value>Katılımlar</value>
     <comment>The value for number of registrations</comment>
   </data>
   <data name="RegisterButton" xml:space="preserve">
-    <value>Register</value>
+    <value>Katıl</value>
     <comment>Adaptive card button text for invoking register event task module</comment>
   </data>
   <data name="RegisteredUsers" xml:space="preserve">
-    <value>Registered participants</value>
+    <value>Katılan kişiler</value>
     <comment>The value for registered users text</comment>
   </data>
   <data name="ReminderCardRegisteredEventButton" xml:space="preserve">
-    <value>View registration</value>
+    <value>Katılınan etkinlikler</value>
     <comment>The button text to view registered events</comment>
   </data>
   <data name="ReminderCardTitle" xml:space="preserve">
-    <value>Reminder!</value>
+    <value>Hatırlatma!</value>
     <comment>The reminder card title</comment>
   </data>
   <data name="StartDate" xml:space="preserve">
@@ -234,7 +234,7 @@
     <comment>The event venue value if the meeting location is teams meeting</comment>
   </data>
   <data name="TrainingType" xml:space="preserve">
-    <value>Event type</value>
+    <value>Etkinlik türü</value>
     <comment>The value for training type</comment>
   </data>
   <data name="TrainingTypeInPerson" xml:space="preserve">
@@ -242,7 +242,7 @@
     <comment>The in-person event text</comment>
   </data>
   <data name="TrainingTypeLiveEvent" xml:space="preserve">
-    <value>Live event</value>
+    <value>Canlı etkinlik</value>
     <comment>The live event text</comment>
   </data>
   <data name="Venue" xml:space="preserve">
@@ -262,7 +262,7 @@
     <comment>Card content footer</comment>
   </data>
   <data name="WelcomeCardPersonalDiscoverButtonText" xml:space="preserve">
-    <value>Discover</value>
+    <value>Keşfet</value>
     <comment>Discover action button in welcome card</comment>
   </data>
   <data name="WelcomeCardPersonalIntro" xml:space="preserve">
